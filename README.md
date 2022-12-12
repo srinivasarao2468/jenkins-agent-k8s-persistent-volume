@@ -261,3 +261,6 @@ In this [Jenkinsfile](https://github.com/aws-samples/jenkins-cloudformation-depl
 ## Conclusion
 
 This post broke down the process of building out Amazon EKS and integrating Jenkins to orchestrate workloads. We demonstrated how you can utilize this to deploy securely in multiple accounts with dynamic Jenkins agents and create alignment to your business with similar use cases. To learn more about Amazon EKS, see our [documentation](https://aws.amazon.com/eks/getting-started/) pages or explore our [console](https://console.aws.amazon.com/eks/home?region=us-east-1#).
+
+
+### Source Repo https://github.com/aws-samples/jenkins-cloudformation-deployment-example
